@@ -47,7 +47,7 @@ Hotel reservation cancellations are a significant challenge for the hospitality 
 
 **Repository Link:**
 
-https://github.com/yourusername/hotel-reservation-prediction
+https://github.com/Boobathy14/HotelBookingCancellation
 
 ---
 
